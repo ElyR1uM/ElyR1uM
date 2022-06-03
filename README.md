@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ElyR1uM
-- 👀 I’m interested in python, though I am still at the beginning and won't get much further due to school.
-- 🌱 I’m currently learning python
+- 👀 I’m interested in learning JavaScript and C# (Unity3D).
+- 🌱 I’m currently learning JavaScript, C#, html (yes it might just be a markup language), CSS.
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me: coming soon
+- 📫 How to reach me: dont
 
 <!---
 ElyR1uM/ElyR1uM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
